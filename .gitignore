@@ -1,1 +1,4 @@
-/.idea
+.idea/
+out/
+target/
+META-INF/
