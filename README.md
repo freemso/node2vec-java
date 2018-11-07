@@ -1,4 +1,4 @@
-# node2vec_java
+# node2vec-java
 
 This repository is an implementation of *node2vec* using Java.
 
